@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984639672725",
+    "project_id": "webrtc-cris-test",
+    "storage_bucket": "webrtc-cris-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984639672725:android:bb1698bf13d07e304c669c",
+        "android_client_info": {
+          "package_name": "com.cris.webrtc_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984639672725-ndref2upu8va5i1gohi90d3vlmktc3p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1p8qT5lHWrUWztYqMJG5V6A900Rck7dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984639672725-ndref2upu8va5i1gohi90d3vlmktc3p1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
